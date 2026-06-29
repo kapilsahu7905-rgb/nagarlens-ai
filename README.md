@@ -4,6 +4,12 @@
 
 NagarLens AI is a full-stack Vibe2Ship 2026 project for the problem statement **Community Hero — Hyperlocal Problem Solver**. It converts a citizen’s photo and location into a structured civic report, gathers community verification, plans follow-ups, compares before/after evidence and rewards meaningful public participation through the **Nagar Hero** XP system.
 
+## Disclaimer
+
+The reports, issues, locations, usernames, profiles, leaderboard entries, and other community data currently visible in this project are created only for testing, demonstration, and hackathon judging purposes.
+
+They do not represent real civic complaints, real people, real public authority records, or verified government reports. NagarLens AI is a prototype built to demonstrate how AI can help citizens report, verify, and track hyperlocal civic issues more efficiently.
+
 ## Final feature set
 
 ### AI civic workflow

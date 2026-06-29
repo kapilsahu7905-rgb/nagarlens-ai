@@ -159,7 +159,7 @@ VITE_FIREBASE_APP_ID=
 
 NagarLens AI is prepared for deployment through Google AI Studio and Cloud Run as required for the hackathon submission.
 
-Live deployed application link will be added after final publishing.
+Live working app link :- https://nagarlens-ai-588308396609.asia-southeast1.run.app/
 
 See `docs/DEPLOYMENT.md` for the complete checklist.
 

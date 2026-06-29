@@ -1,0 +1,1 @@
+Follow AGENTS.md. Preserve the React + TypeScript + Express architecture. Use the official `@google/genai` SDK. Keep Gemini calls server-side, validate API responses with Zod, and run `npm run check` before considering a task complete. Never invent government integrations or mark external actions as completed without confirmation.
